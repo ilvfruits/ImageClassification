@@ -1,0 +1,4 @@
+python train.py flowers --gpu
+Epoch 1/3.. Train loss: 2.903.. Validation loss: 0.975.. Validation accuracy: 0.768
+Epoch 2/3.. Train loss: 1.633.. Validation loss: 0.624.. Validation accuracy: 0.843
+Epoch 3/3.. Train loss: 1.379.. Validation loss: 0.498.. Validation accuracy: 0.872
