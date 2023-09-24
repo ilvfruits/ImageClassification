@@ -14,8 +14,9 @@ This project aim to implement an image classifier with PyTorch.
 3. train.py - Python code to train an image classifier model
 4. predict.py - Python code to predict image class using this model
 5. checkpoint.pth - the model training data (epoch = 3, accuracy > 75%)
-6. training_log.txt - terminal outputs for model training
-7. ImageClassifierProject_Part1.html - the html file for the Jupyter 
+'checkpoin.pth' is too big to upload here. Link to google driver: https://drive.google.com/file/d/1hRnubedNeFM-AzGZogWKWeq2Z1thUAKy/view?usp=drive_link
+7. training_log.txt - terminal outputs for model training
+8. ImageClassifierProject_Part1.html - the html file for the Jupyter 
 
 **Explaination**
 1. train.py takes one argument for data directory
